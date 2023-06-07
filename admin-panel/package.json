@@ -52,15 +52,7 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/navdeep1676/digitic-admin.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/navdeep1676/digitic-admin/issues"
-  },
-  "homepage": "https://github.com/navdeep1676/digitic-admin#readme"
+  "license": "ISC"
 }
